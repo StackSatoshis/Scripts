@@ -1,0 +1,11 @@
+{
+            "Comment": "CREATE SUBDOMAIN_HERE.ryancarroll.io",
+            "Changes": [{
+            "Action": "CREATE",
+                        "ResourceRecordSet": {
+                                    "Name": "SUBDOMAIN_HERE.ryancarroll.io",
+                                    "Type": "A",
+                                    "TTL": 300,
+                                 "ResourceRecords": [{ "Value": "18.117.234.86"}]
+}}]
+}
