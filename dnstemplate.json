@@ -6,6 +6,6 @@
                                     "Name": "SUBDOMAIN_HERE.ryancarroll.io",
                                     "Type": "A",
                                     "TTL": 300,
-                                 "ResourceRecords": [{ "Value": "18.117.234.86"}]
+                                 "ResourceRecords": [{ "Value": "YOUR_IP_HERE"}]
 }}]
 }
